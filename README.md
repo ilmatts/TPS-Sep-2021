@@ -15,4 +15,5 @@ Taking into consideration the limitations faced, the main improvement that could
 
 The positive result obtained from the September challenge persuaded me to participate in the October and November competitions, the latter of which is still in progress at the time of writing.
 
+## Medium article
 Medium article that goes into detail: https://medium.com/@matteo.fedeli/my-first-time-621127011e7c
