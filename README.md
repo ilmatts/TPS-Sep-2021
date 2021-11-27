@@ -1,6 +1,8 @@
 # TPS-Sep-2021
 Kaggle Tabular Playground Series Sept 2021 Submission for Digital Futures Data Science Academy. The challenge description and data can be found at https://www.kaggle.com/c/tabular-playground-series-sep-2021
 
+The "Kaggle Tabular Playground Series Sept 2021" notebook contains all code and all models tested (but not run due to insufficient memory) while the "Capstone" notebook contains the code and outputs of the best performing model.
+
 ## Project Aims
 The aim of this project was to take part in and complete the Kaggle "Tabular Playground Series - Sep 2021" Prediction Competition. The competition consisted of predicting the probability of a customer making a claim on an insurance policy. I chose this as my capstone project since it allowed me to put my knowledge and skills into practice but also explore new topics and learn new modelling techniques. 
 
